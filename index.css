@@ -1,0 +1,47 @@
+.body {
+    background-color: rgb(255, 255, 255);
+}
+.nav-link {
+ font-size: 80%;
+ color: black;
+ opacity: 78%;   
+ text-decoration: none;
+ }
+.nav-link:hover{
+    text-decoration: underline;
+}
+.about
+{
+    margin-left: 1%;
+    
+}
+.store {
+    
+    }
+.Gmail {
+    margin-left: 80%;
+}    
+.Images {
+    
+}
+#foto {
+width: 20px;
+height: 20px;
+border-radius: 50%;
+margin-top: 10px;
+}
+#googlelogo {
+width: 500px;
+margin-top: 200px;
+margin-left: 650px;    
+}
+#search {
+    width: 310px;
+    margin-left: 700px;
+}
+.help {
+    font-size: 80%;
+ color: black;
+ opacity: 78%;   
+ text-decoration: none;
+}
